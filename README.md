@@ -1,6 +1,6 @@
 ## Pokedex
 
-Weather app is a simple SwiftUI application with redux pattern and coordinator for navigate between views, and Core Data for save favorite Cities
+Pokedex is a simple SwiftUI application with redux pattern and coordinator for navigate between views.
 
 ## Usage
 
