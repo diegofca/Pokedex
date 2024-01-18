@@ -11,3 +11,8 @@ Pokedex is a simple SwiftUI application with redux pattern and coordinator for n
 
 ## Result
 ![Pokédex](https://github.com/diegofca/Pokedex/assets/26044964/adf5f498-cb85-41c7-ab5d-9b2a2b4f3258)
+
+
+
+https://github.com/diegofca/Pokedex/assets/26044964/8a8cc559-5611-476a-9999-d747f3c76ea7
+
